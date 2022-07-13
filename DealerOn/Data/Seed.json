@@ -1,0 +1,67 @@
+{
+  "products": [
+    {
+
+      "Name": "Book",
+      "Price": 12.49,
+      "Imported": false,
+      "ProductType": 2
+    },
+    {
+      "Name": "Music CD",
+      "Price": 14.99,
+      "Imported": false,
+      "ProductType": 3
+    },
+
+    {
+      "Name": "Chocolate bar",
+      "Price": 0.85,
+      "Imported": false,
+      "ProductType": 0
+    },
+
+    {
+      "Name": "Imported box of chocolates",
+      "Price": 10,
+      "Imported": true,
+      "ProductType": 0
+    },
+
+    {
+      "Name": "Imported bottle of perfume",
+      "Price": 47.50,
+      "Imported": true,
+      "ProductType": 3
+    },
+
+
+    {
+      "Name": "Imported bottle of perfume",
+      "Price": 27.99,
+      "Imported": true,
+      "ProductType": 3
+    },
+
+    {
+      "Name": "Bottle of perfume",
+      "Price": 18.99,
+      "Imported": false,
+      "ProductType": 3
+    },
+
+    {
+      "Name": "Packet of headache pills",
+      "Price": 9.75,
+      "Imported": false,
+      "ProductType": 1
+    },
+
+    {
+      "Name": "Imported box of chocolates",
+      "Price": 11.25,
+      "Imported": true,
+      "ProductType": 0
+    }
+  ]
+}
